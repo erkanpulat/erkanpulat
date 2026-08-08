@@ -1,0 +1,5 @@
+# Keep line endings stable across machines so regenerating the SVGs on
+# Windows does not show up as a whole-file diff.
+* text=auto eol=lf
+
+*.woff2 binary

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" role="img">
+  <defs>
+	<radialGradient id="glow">
+	  <stop offset="0%" stop-color="#c6d6f8" stop-opacity="0.5"/>
+	  <stop offset="55%" stop-color="#9fb4dc" stop-opacity="0.16"/>
+	  <stop offset="100%" stop-color="#9fb4dc" stop-opacity="0"/>
+	</radialGradient>
+  </defs>
+  <style>
+	.tw{animation:tw 4.5s ease-in-out infinite}
+	@keyframes tw{0%,100%{opacity:.55}50%{opacity:1}}
+  </style>
+  <circle cx="32" cy="32" r="30" fill="url(#glow)" class="tw"/>
+  <circle cx="32" cy="32" r="20" fill="#0a0f1c" stroke="#1c2338"/>
+  <g transform="translate(20 20)"><circle cx="12" cy="12" r="9.5" stroke="#e8edf6" stroke-width="1.5" fill="none"/><path d="M12 2.5C7.4 7 7.4 17 12 21.5C16.6 17 16.6 7 12 2.5Z" stroke="#e8edf6" stroke-width="1.3" fill="none"/><path d="M2.5 12H21.5M4.2 7.4C7.5 9 16.5 9 19.8 7.4M4.2 16.6C7.5 15 16.5 15 19.8 16.6" stroke="#e8edf6" stroke-width="1.3" fill="none"/></g>
+</svg>
