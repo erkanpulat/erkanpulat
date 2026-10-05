@@ -2,6 +2,11 @@
 
 <a href="https://github.com/erkanpulat"><img src="https://raw.githubusercontent.com/erkanpulat/erkanpulat/main/assets/lang-en-off.svg" width="66" alt="Switch to English" /></a><img src="https://raw.githubusercontent.com/erkanpulat/erkanpulat/main/assets/lang-tr-on.svg" width="66" alt="Türkçe, geçerli dil" />
 
+<p>
+  <i>وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ</i><br>
+  <sub>Başarım ancak Allah'ın yardımı iledir. - Kur’an-ı Kerim, Hûd 11:88</sub>
+</p>
+
 <a href="https://erkanpulat.github.io/"><img src="https://raw.githubusercontent.com/erkanpulat/erkanpulat/main/assets/hero.tr.svg" width="100%" alt="Erkan Pulat, Yazılım Mühendisi, İstanbul. Burası benim kodla şekillenen evrenim. Buradaki her bir yıldız, çözülen bir problemin izini taşıyor. Ve her birinin anlatacak bir hikâyesi var." /></a>
 
 <img src="https://raw.githubusercontent.com/erkanpulat/erkanpulat/main/assets/divider.svg" width="100%" alt="" />

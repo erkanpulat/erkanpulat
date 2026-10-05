@@ -2,6 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/erkanpulat/erkanpulat/main/assets/lang-en-on.svg" width="66" alt="English, current language" /><a href="https://github.com/erkanpulat/erkanpulat/blob/main/README.tr.md"><img src="https://raw.githubusercontent.com/erkanpulat/erkanpulat/main/assets/lang-tr-off.svg" width="66" alt="Türkçe sürüme geç" /></a>
 
+<p>
+  <i>وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ</i><br>
+  <sub>My success comes only through Allah. - Qur'an, 11:88</sub>
+</p>
+
 <a href="https://erkanpulat.github.io/"><img src="https://raw.githubusercontent.com/erkanpulat/erkanpulat/main/assets/hero.svg" width="100%" alt="Erkan Pulat, Software Engineer, Istanbul. This is my universe, shaped by code. Every star carries the trace of a problem once solved. And every one of them has a story to tell." /></a>
 
 <img src="https://raw.githubusercontent.com/erkanpulat/erkanpulat/main/assets/divider.svg" width="100%" alt="" />
